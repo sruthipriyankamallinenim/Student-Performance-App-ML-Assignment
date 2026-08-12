@@ -43,7 +43,7 @@ The dataset contains no missing values.
 
 GitHub Repository:
 
-PASTE YOUR GITHUB LINK HERE
+[PASTE YOUR GITHUB LINK HERE](https://github.com/sruthipriyankamallinenim/Student-Performance-App-ML-Assignment/)
 
 ---
 
